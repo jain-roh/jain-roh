@@ -59,9 +59,6 @@ I build **scalable backend systems and data-driven optimization models** that so
 - Exploring **optimization problems (energy, logistics, decision systems)**
 - Growing **freelance/consulting work (Upwork & contracts)**
 
-# 💫 About Me:
-I build scalable backend systems and data-driven optimization models that solve real-world problems — from solar energy performance optimization to automation and AI-powered workflows.<br><br>⚡
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jain-roh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohit.jain@arhatinfo.com) 
